@@ -1,0 +1,6 @@
+login:ssh power.cs.lth.se -l mas15ema
+pwd: 0635101
+
+GCC on ssh: /opt/gcc/9.2.0/bin/gcc
+
+/cygdrive/c/Users/MalmE/OneDrive/Dokument/Skola/Maskinteknik/cprogg/rpn/rpn.c
